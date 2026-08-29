@@ -1,6 +1,6 @@
-# OrbitWeave Support
+# GlobalWeave Support
 
-OrbitWeave is a live Starlink globe for **iPhone and iPad**.
+GlobalWeave is a live Starlink globe for **iPhone and iPad**.
 
 ## Help
 
