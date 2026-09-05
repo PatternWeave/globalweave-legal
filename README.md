@@ -1,6 +1,7 @@
-# GlobalWeave legal
+# MeshWeave legal
 
-Public App Store listing URLs for GlobalWeave.
+Public App Store listing URLs. Canonical copies live on vibealive.us.
 
-- Privacy: https://github.com/PatternWeave/globalweave-legal/blob/main/index.html
-- Support: https://github.com/PatternWeave/globalweave-legal/blob/main/SUPPORT.md
+- Privacy: https://vibealive.us/privacy/meshweave.html
+- Support: https://vibealive.us/support.html
+- Contact: support@vibealive.us
